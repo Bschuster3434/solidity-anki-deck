@@ -1,0 +1,7 @@
+guid,language artifact,name of artifact,description,tags
+H~)m|7jRZ>,bool,Boolean,Possible Values are True or False. Use in conjunction with common operators to evaluate to true or false.,
+HzsOcHx.xm,!,Boolean: Logical Negation,Negates the value of the boolean,
+Hyuw?=SGK{,&amp;&amp;,Logical Conjunction,'And' Statement for Boolean Values,
+itqZgmG[.I,||,Logical Disjunction,"""Or"" statement for Boolean Values",
+f^$byCrGC],==,Equality,Evaluates two statements to see if they are equal,
+eJ[F5.]1@`,!=,Inequality,Evaluates two statements to see if they are not equal,
